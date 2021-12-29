@@ -1,0 +1,2 @@
+Documentação de autenticação de dois fatores do Django - Two-Factor Authentication
+https://django-two-factor-auth.readthedocs.io/en/stable/index.html
